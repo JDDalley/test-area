@@ -1,0 +1,34 @@
+{
+  "name": "Ticket #003",
+  "symbol": "YVA",
+  "description": "Ticket #003 - your access code is ACCESS_003",
+  "image": "https://raw.githubusercontent.com/jddalley/test-area/main/assets/nft-003.png",
+  "attributes": {
+    "puzzle1": 0,
+    "puzzle2": 0,
+    "puzzle3": 0,
+    "puzzle4": 0,
+    "puzzle5": 0,
+    "puzzle6": 0,
+    "puzzle7": 0,
+    "puzzle8": 0,
+    "puzzle9": 0,
+    "puzzle10": 0,
+    "???": 0
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jddalley/test-area/main/assets/nft-003.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FX9rnYAQsPC4XJ527uhrjyrqxzwP1UcK2TGjTwZ11SCq",
+        "share": 100
+      }
+    ]
+  }
+}
