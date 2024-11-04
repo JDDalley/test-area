@@ -2,13 +2,13 @@
     "name": "Yasnar v1",
     "symbol": "YVA",
     "description": "Version 1 of my project attempt",
-    "image": "https://raw.githubusercontent.com/jddalley/test-area/main/Purple.jpg"
+    "image": "https://raw.githubusercontent.com/jddalley/test-area/main/Purple.jpg",
     "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/jddalley/test-area/main/Purple.jpg",
-        "type": "image/png"
-      }
-    ]
-  }
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/jddalley/test-area/main/Purple.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
 }
